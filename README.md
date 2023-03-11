@@ -1,3 +1,5 @@
+Original: [Here](https://github.com/nvh95/vite-react-template-redux)
+
 # vite-react-template-redux
 
 The (un)official Redux (JS+TS) template for [Vite](https://vitejs.dev) React.
@@ -8,26 +10,26 @@ To use a template within your project, use [degit](https://github.com/Rich-Harri
 
 ### JavaScript
 
-Use `nvh95/vite-react-template-redux/javascript` to create a project with JavaScript.
+Use `toiq/vite-react-template-redux/javascript` to create a project with JavaScript.
 
 ```sh
-npx degit nvh95/vite-react-template-redux/javascript my-app
+npx degit toiq/vite-react-template-redux/javascript my-app
 
 # or
 
-npx degit nvh95/vite-react-template-redux/javascript my-app --yarn
+npx degit toiq/vite-react-template-redux/javascript my-app --yarn
 ```
 
 ### TypeScript
 
-Use `nvh95/vite-react-template-redux/typescript` to create a project with TypeScript.
+Use `toiq/vite-react-template-redux/typescript` to create a project with TypeScript.
 
 ```sh
-npx degit nvh95/vite-react-template-redux/typescript my-app
+npx degit toiq/vite-react-template-redux/typescript my-app
 
 # or
 
-npx degit nvh95/vite-react-template-redux/typescript my-app --yarn
+npx degit toiq/vite-react-template-redux/typescript my-app --yarn
 ```
 
 For more information, please refer to:
